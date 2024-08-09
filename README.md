@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pravalikapullabatla
+- 👋 Hi, I’m @Pravalika.Pullabatla
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Macine learning and Full-Stack
 - 📫 How to reach me via e-mail pullabatla.pravalika@gmail.com
